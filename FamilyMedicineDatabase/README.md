@@ -5,7 +5,7 @@ This project is a sample database application developed to support family medici
 ## 📁 Project Structure
 
 - `README.md` — Project description
-- `LICENSE` — MIT license
+- `LICENSE` 
 - `docs/proje_raporu.pdf` — Project report (in Turkish)
 - `schema/` — ER diagrams
 - `database/schema.sql` — Database schema (DDL)
