@@ -16,11 +16,12 @@ FamilyMedicineDatabase/
 │ ├── queries.sql
 │ └── family_physician_model.mwb
 
-### Chen Diagram
+### Chen Diagram  
 ![Chen Diagram](schema/chen_schema.png)
 
-### Relational Schema
+### Relational Schema  
 ![Relational Schema](schema/relational_schema.png)
+
 
 
 ## ⚙️ Technologies
