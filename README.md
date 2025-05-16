@@ -17,10 +17,10 @@ FamilyMedicineDatabase/
 │ └── family_physician_model.mwb
 
 ### Chen Diagram  
-![Chen Diagram](schema/chen_schema.png)
+![Chen Diagram](FamilyMedicineDatabase/schema/chen_schema.png)
 
 ### Relational Schema  
-![Relational Schema](schema/relational_schema.png)
+![Relational Schema](FamilyMedicineDatabase/schema/relational_schema.png)
 
 
 
